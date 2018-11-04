@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [序 - 寶貝台灣的肝](README.md)
 * [1. 環境正義](1.-jing-zheng.md)
 * [2. 綠色生活](2.-se-sheng-huo.md)
 * [3. 文化立縣](3.-wen-hua-li.md)
