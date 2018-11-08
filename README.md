@@ -1,6 +1,6 @@
 # 參選雲林縣長聲明
 
-{% embed url="https://www.youtube.com/watch?v=mPZBltx0h2M&t=35s" %}
+{% embed url="https://www.youtube.com/watch?v=aUdv7ohYe4A" %}
 
 「雲林，做自己！」不以模仿台北為目標，要有自己的立場與未來。
 
